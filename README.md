@@ -1,2 +1,2 @@
 # cashless_vending_machine
-Code and necessary doc for cashless and touchscreen vending machine made with Arduino. 
+This project is our engineering final year major project: a cashless vending machine operated through a touchscreen interface, allowing payments via QR codes for convenience and ease. The accompanying PDF includes a detailed paper outlining the essential electronic components. A flowchart provides a clear overview of the logic behind the Arduino code, while the circuit diagram shows the connections among the electronic components. Together, these elements describe a streamlined, user-friendly vending machine system designed.

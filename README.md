@@ -1,2 +1,3 @@
 # cashless_vending_machine
 This project is our engineering final year major project: a cashless vending machine operated through a touchscreen interface, allowing payments via QR codes for convenience and ease. The accompanying PDF includes a detailed paper outlining the essential electronic components. A flowchart provides a clear overview of the logic behind the Arduino code, while the circuit diagram shows the connections among the electronic components. Together, these elements describe a streamlined, user-friendly vending machine system designed.
+![image](https://github.com/user-attachments/assets/b16ab4b4-da39-4892-9d22-dd5acda0a1ea)
